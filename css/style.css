@@ -77,3 +77,9 @@ header {
     font-weight: normal;
     color: #637581;
 }
+#share {
+    display: inline-block;
+}
+.share-logo {
+    width: 50px;
+}
