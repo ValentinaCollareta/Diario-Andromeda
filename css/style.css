@@ -24,3 +24,17 @@ header {
     padding: 8px 16px 16px 16px;
     background-color: #fff;
 }
+#h1-style {
+    margin: 16px 0px 0px;
+    font-weight: 900;
+    font-size: 36px;
+    font-family: "Bitter", sans-serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 2.5rem;
+}
+.h2-style,#h2-style {
+    font-family: "Bitter", sans-serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#h2-style {
+    font-weight: normal;
+    font-size: 16px;
+}
