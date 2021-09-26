@@ -48,3 +48,32 @@ header {
     font-size: 13px;
     font-weight: normal;
 }
+#post-by {
+    margin: 8px 0px 16px;
+    background-color: #ebf5fc;
+}
+#post-by-avatar {
+    display: inline-block;
+    width: 80px;
+}
+#post-by-a {
+    font-family: "Bitter", sans-serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    font-weight: 900;
+    text-decoration: none;
+    color: black;
+}
+#post-by-a:hover {
+    color: black;
+}
+#post-by-p {
+    font-family: "Red Hat Display", sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+}
+#date {
+    font-size: 13px;
+    font-family: "Red Hat Display", sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    color: #637581;
+}
