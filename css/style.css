@@ -38,3 +38,13 @@ header {
     font-weight: normal;
     font-size: 16px;
 }
+.article-img {
+    width: 100%;
+}
+.h4-article {
+    margin: 0px;
+    padding: 6px 9px 6px;
+    font-family: "Red Hat Display", sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+}
