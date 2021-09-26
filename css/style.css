@@ -83,3 +83,14 @@ header {
 .share-logo {
     width: 50px;
 }
+.article-p {
+    margin: 16px 0px;
+    font-family: "Source Serif Pro", sans-serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.article-p-a {
+    text-decoration: none;
+    color: #e33a11;
+}
+.article-p-a:hover {
+    text-decoration: underline;
+}
