@@ -181,9 +181,22 @@ header {
     font-size: 19px;
     font-family: "Bitter", sans-serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+.article-ul {
+    margin: 16px 0px;
+    padding-left: 0%;
+}
 .article-ul li {
     margin: 0px 0px 10px;
     font-family: "Source Serif Pro", sans-serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    list-style: none;
+}
+.article-ul li::before {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 16px;
+    background-color: #e33a11;
+    content: "";
 }
 .article-ol li {
     font-family: "Source Serif Pro", sans-serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
