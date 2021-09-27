@@ -231,16 +231,20 @@ header {
     color: #e33a11;
 }
 #back-to-top {
+    display: grid;
+    place-items: center;
     width: 60px;
     height: 60px;
     margin: 0 auto;
+    padding: 10px;
     background-color: #e33a11;
+    text-align: center;
     border-radius: 100%;
 }
-#back-to-top a {
-    padding: 2px;
+#back-a {
+    margin: 0 auto;
+    font-family: "Red Hat Display", sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
-    text-align: center;
     text-transform: uppercase;
     color: white;
 }
