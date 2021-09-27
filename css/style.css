@@ -163,10 +163,14 @@ header {
 .tiktok-video {
     height: 100%;
 }
-#tiktok-video-img {
-    margin-left: 300px;
+#tiktok-video-div {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-left: 15%;
 }
 .tiktok-video a {
+    padding-top: 2px;
     font-size: 13px;
     font-family: "Oxygen", sans-serif, Arial, Helvetica, sans-serif;
     text-decoration: none;
