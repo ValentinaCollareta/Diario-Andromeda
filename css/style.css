@@ -103,6 +103,59 @@ header {
 .article-p-a:hover {
     text-decoration: underline;
 }
+#enter-email {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 10px 18px;
+    background-color: #e33a11;
+    border-radius: 20px;
+    color: white;
+}
+#enter-email-div {
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin: 10px 0px;
+    background-color: white;
+    border-radius: 20px;
+}
+#label-email-style {
+    width: 70%;
+    padding: 10px 10px 12px 20px;
+    font-family: "Bitter", sans-serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22px;
+    font-weight: 900;
+}
+#email-input {
+    width: 80%;
+    margin: 0px 0px 0px 8px;
+    padding: 1.6px 12.8px;
+    border-style: none;
+    border-radius: 20px;
+    font-family: "Red Hat Display", sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    outline: none;
+}
+#email-input::placeholder {
+    opacity: 0.2;
+}
+#enter-button {
+    width: 20%;
+    padding: 10px;
+    background-color: #e33a11;
+    border-radius: 20px;
+    border: 2px solid white;
+    font-family: "Red Hat Display", sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: white;
+}
+#email-img {
+    align-self: flex-end;
+    position: absolute;
+    padding: 20px 0px;
+}
 .h2-style {
     font-weight: 900;
     font-size: 24px;
