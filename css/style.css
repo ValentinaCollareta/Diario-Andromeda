@@ -209,23 +209,26 @@ header {
     content: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 79 79" style="border-radius:1px;margin-bottom:-4px"><path data-name="Path 47" d="M0 0v79h79V0zm38.8 12.746a5.976 5.976 0 015.974 5.974 5.974 5.974 0 01-5.974 5.974 5.974 5.974 0 01-5.975-5.974 5.975 5.975 0 015.973-5.974zm9.313 53.507H30.981v-5.271h4.393V36.294h-4.482v-5.272h13.269v29.96h3.954z" fill="%23e33a11"/></svg>');
 }
 #topics {
-    margin: 0px 0px 16px;
+    margin: 0px 0px 6px;
     padding: 8px 0px;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
 }
-.topics-a {
-    padding: 0px 0px 0px 4px;
-    text-decoration: none;
-    color: #e33a11;
+#h4-topics-style {
+    margin: 0px 0px 8px 0px;
+    padding: 0px;
+    font-weight: normal;
+    color: #637581;
 }
 .topics-a, #h4-topics-style {
     font-size: 16px;
     font-family: "Bitter", sans-serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-#h4-topics-style {
-    padding: 0px 0px 8px;
-    color: #637581;
+.topics-a {
+    padding: 0px 0px 0px 4px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #e33a11;
 }
 #back-to-top {
     width: 60px;
