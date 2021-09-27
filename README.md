@@ -10,14 +10,14 @@
 
 - :newspaper: URL of the original newspaper: https://inews.co.uk/inews-lifestyle/food-and-drink/tiktok-feta-pasta-recipe-cheese-tomato-viral-how-make-videos-898220
 - :star: GitHub Pages:
-    ### 1st page
-    - https://valentinacollareta.github.io/GP-index/
-    ### 2nd page
-    - https://valentinacollareta.github.io/GP-tiktok/tiktok-feta-pasta-recipe-cheese-tomato-viral-how-make-videos-week-02.html
+    ##### 1st page
+    :small_orange_diamond: https://valentinacollareta.github.io/GP-index/
+    ##### 2nd page
+    :small_orange_diamond: https://valentinacollareta.github.io/GP-tiktok/tiktok-feta-pasta-recipe-cheese-tomato-viral-how-make-videos-week-02.html
 
 **You can see the differences between the page of the last week and the new one here:**
-- Old: https://valentinacollareta.github.io/Diario-Andromeda/
-- New: https://valentinacollareta.github.io/GP-index/
+- :star: Old: https://valentinacollareta.github.io/Diario-Andromeda/
+- :star: New: https://valentinacollareta.github.io/GP-index/
 
 **Weekly Goals**
 1. Capability to understand the complexity of syle sheet CSS.
